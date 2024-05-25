@@ -1,5 +1,10 @@
+To develop a system that enables the creation of posts using Filecoin testnet coins, leveraging the MetaMask wallet for secure and efficient transactions.
+
+
 look like
 ![image](https://github.com/yashrank345/my_forum_dApp/assets/114207540/ee1ca808-d5f0-4e46-85db-812092b161ba)
+![image](https://github.com/yashrank345/my_forum_dApp/assets/114207540/595b4428-d055-4912-a929-20c298abe6cb)
+
 
 
 
