@@ -1,3 +1,10 @@
+look like
+![image](https://github.com/yashrank345/my_forum_dApp/assets/114207540/ee1ca808-d5f0-4e46-85db-812092b161ba)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
